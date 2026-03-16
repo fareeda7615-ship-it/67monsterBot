@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "PeaceSMPS3.aternos.me",
+    "port": 46835,
     "version": "",
     "try-creative": false
   },
@@ -65,8 +65,8 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
-    "chat": true,
+    "beds": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
